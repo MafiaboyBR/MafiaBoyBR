@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil do GitHub! Sou o MafiaBoyBR, um estudante de 14 anos apa
 
 ## Linguagens que estou aprendendo
 ![MafiaBoyBR GitHub stats](https://github-readme-stats.vercel.app/api?username=MafiaBoyBR&show_icons=true&theme=radical)
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MafiaBoyBR&size_weight=0.5&count_weight=0.5)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MafiaBoyBR&layout=compact)
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
