@@ -30,7 +30,8 @@ Bem-vindo ao meu perfil do GitHub! Sou o MafiaBoyBR, um estudante de 14 anos apa
 No momento, estou focado em projetos de estudo para aplicar meus conhecimentos em Python e redes de computadores. Em breve, espero ter projetos interessantes para compartilhar!
 
 ## Entre em contato
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/def_allan)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/def_allan)
+[![Linked Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 Fique à vontade para entrar em contato comigo por meio do GitHub. Estou ansioso para aprender, colaborar e trocar conhecimentos com a comunidade.
